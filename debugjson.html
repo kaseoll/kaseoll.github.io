@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <title>JSON测试</title>
+  <link href="css/style.css" rel="stylesheet">
+ </head>
+ <body>
+  <input type="textarea" value="" id="inputTA" onkeydown="setTimeout(run,200);">
+  <div id="runBlock" class="runBlock"></div>
+ </body>
+</html>
+<script src="mainmisson.js" type="text/javascript"></script><!-- 信息导入-->
+<script>
+ function runtext(){
+  docunent.getElemntById('runBlock').innerHTML = document.getElementById('inputTA').value;
+ }
+</script>
