@@ -1,5 +1,0 @@
-网址收集，收集可能较为冷门的网址。我不是专写JS代码的，所以只会简单的代码。
-url.js (/js/url.js)包含了收集的链接
-styles.css (/css/styles.css)界面统一样式
-mainStyle.js(/js/mainStyle.js)统一的界面样式。
-<td>标签中添加的name,keyword作为匹配使用。
