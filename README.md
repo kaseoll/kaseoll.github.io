@@ -1,2 +1,4 @@
-# kaseoll.github.io
-application easy download
+# 这里提供一些软件下载的下载链接
+### 这些代码以GPL的方式发布 
+<strong>联系我</strong>salostor@126.com
+附带软件安装方式和下载链接，官网的下载是最新的，但可能速度比较慢，其他下载方式可能比较慢，但是速度应该较快。
